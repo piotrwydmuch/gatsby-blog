@@ -27,13 +27,10 @@ const Layout = props => {
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
-                <Link to={`/`}>Home</Link>
+                <Link to={`/`}>Wszystkie wpisy</Link>
               </li>
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>About</Link>
-              </li>
-              <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/about`}>O mnie</Link>
               </li>
             </ul>
           </nav>
@@ -45,29 +42,21 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.linkedin.com/in/piotr-wydmuch/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                LinkedIn
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://github.com/piotrwydmuch"
+                title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                GitHub
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
             </div>
           </div>
         </div>

@@ -28,10 +28,10 @@ const AboutPage = ({ data }, location) => {
             <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure> */}
           <p className="text-left">
-            Siema. Jestem Piter, mam 24 lata i obecnie mieszkam we Wrocławiu.
-            Jakiś czas temu ukończyłem studia inżynierskie na Polibudzie we
-            Wrocławiu. Obecnie studiuję Informatykę w Warszawie i pracuję jako
-            Front End Developer.
+            Cześć. Jestem Piotrek, mam 24 lata i obecnie mieszkam we Wrocławiu.
+            Jakiś czas temu ukończyłem studia inżynierskie na Politechnice
+            Wrocławskiej we Wrocławiu. Obecnie studiuję Informatykę w Warszawie
+            i pracuję jako Front End Developer.
           </p>
           <p>
             Po pracy i egzaminach staram się uczyć i rozwijać we wszystkim, co

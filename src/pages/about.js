@@ -30,8 +30,8 @@ const AboutPage = ({ data }, location) => {
           <p className="text-left">
             Cześć. Jestem Piotrek, mam 24 lata i obecnie mieszkam we Wrocławiu.
             Jakiś czas temu ukończyłem studia inżynierskie na Politechnice
-            Wrocławskiej we Wrocławiu. Obecnie studiuję Informatykę w Warszawie
-            i pracuję jako Front End Developer.
+            Wrocławskiej. Obecnie studiuję Informatykę w Warszawie i pracuję
+            jako Front End Developer.
           </p>
           <p>
             Po pracy i egzaminach staram się uczyć i rozwijać we wszystkim, co
